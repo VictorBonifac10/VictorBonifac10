@@ -2,7 +2,7 @@ Olá Mundo!!! Eu sou o Victor A. Bonifácio 👋
 
 - 🔭 Front-End/Gestão de Projetos/UI-UX 
 - 📚 Estudando Sitemas para Internet - Fatec TQ
-- 😄 Pronouns: Ele/dele (BR🟡🟢)
+- (BR🟡🟢)
 - 📧 victor.alvesbonifacio@gmail.com
 
 <div style="display: flex">
