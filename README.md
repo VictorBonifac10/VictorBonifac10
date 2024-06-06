@@ -7,8 +7,8 @@ Olá Mundo!!! Eu sou o Victor A. Bonifácio 👋
 
 <div style="display: flex">
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorBonifac10&show_icons=true&theme=transparent)
- <img height="195" width="40%" src="https://thumbs.gfycat.com/AmusingQuestionableIcelandgull-size_restricted.gif">
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorBonifac10&show_icons=true&theme=transparent)
+ <img height="195" width="40%" src="https://thumbs.gfycat.com/AmusingQuestionableIcelandgull-size_restricted.gif"> -->
   
 </div>
   
