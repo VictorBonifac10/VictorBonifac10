@@ -1,33 +1,49 @@
-Olá Mundo!!! Eu sou o Victor A. Bonifácio 👋
+# 👨‍💻 Victor Alves Bonifácio
+**`Desenvolvedor Web Front-End`**
 
-- 🔭 Front-End/Gestão de Projetos
-- 📚 Estudando Sitemas para Internet - Fatec TQ
-- (BR🟡🟢)
-- 📧 victor.alvesbonifacio@gmail.com
+<p>Seja bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia, inovação e por desenvolver soluções que geram impacto real. Ao longo da minha trajetória profissional, venho aprimorando habilidades em ferramentas e metodologias voltadas à criação e gestão de software, sempre com foco na entrega de valor e eficiência.
+Fique à vontade para explorar mais sobre meus projetos e experiências logo abaixo: </p>
 
-<div style="display: flex">
-  
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorBonifac10&show_icons=true&theme=transparent)
- <img height="195" width="40%" src="https://thumbs.gfycat.com/AmusingQuestionableIcelandgull-size_restricted.gif"> -->
-  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.alvesbonifacio@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-alves-bonifacio/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5516993090225?text=Olá,%20tudo%20de%20bem?)
+[![Beacons](https://img.shields.io/badge/Beacons-39E09B?style=for-the-badge&logo=beacons&logoColor=white)](https://beacons.ai/victorbonifacio)
+
+# 🌐 Tecnologias
+
+<p>Algumas das tecnologias que domino e me permitem desenvolver sistemas web responsivos, escaláveis e modernos, garantindo um código limpo, versionado, de fácil manutenção e alinhado às boas práticas de desenvolvimento: </p>
+
+<div display:inline-block>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-00599C?style=for-the-badge&logo=CSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-734F96?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=React&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=GIT&logoColor=white"/> 
 </div>
-  
-<div style="display: inline_block">
-  <img align="center" alt="Victor-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Victor-BOOT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  <img align="center" alt="Victor-VSCD" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Victor-NODE" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />   
-  <img align="center" alt="Victor-JQUE" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /                  
-</div><br><br>
-  
-<div style="display: flex">  
-<a href="https://instagram.com/victorbonifaciobr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:victor.alvesbonifacio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank "</a>
-<a href="https://www.linkedin.com/in/victor-alves-bonif%C3%A1cio-aa550726a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://beacons.ai/victorbonifacio" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank" ></a>
-  
-</div>
+
+  #
+<br>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorBonifac10&theme=tokyonight&show_icons=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBonifac10&theme=tokyonight&layout=compact&custom_title=Stats&langs_count=9" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
   	
  
