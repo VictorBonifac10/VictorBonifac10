@@ -20,6 +20,7 @@ Fique à vontade para explorar mais sobre meus projetos e experiências logo aba
   <img src="https://img.shields.io/badge/TailwindCSS-122c5a?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MongoDB-F8F8FF?style=for-the-badge&logo=MongoDB&logoColor=green"/> 
   <img src="https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=React&logoColor=black"/> 
   <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=GIT&logoColor=white"/> 
 </div>
