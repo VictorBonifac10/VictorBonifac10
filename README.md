@@ -23,6 +23,7 @@ Fique à vontade para explorar mais sobre meus projetos e experiências logo aba
   <img src="https://img.shields.io/badge/MongoDB-F8F8FF?style=for-the-badge&logo=MongoDB&logoColor=green"/> 
   <img src="https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=React&logoColor=black"/> 
   <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=GIT&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/styledcomponents-DB466E?style=for-the-badge&logo=styledcomponents&logoColor=white"/> 
 </div>
 
   #
